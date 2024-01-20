@@ -1,0 +1,29 @@
+/* styles.css */
+
+.login-box {
+  background-color: black;
+  padding: 20px;
+  /* border-radius: 5px; */
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+}
+.sign-up-box {
+  background-color: black;
+  padding: 20px;
+  /* border-radius: 5px; */
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: white;
+}
+.background-image {
+  background-image: url("https://tamilnadunow.com/wp-content/uploads/2022/10/CTO-Collage.jpg");
+  background-size: cover;
+  background-position: center;
+  padding-top: 30px;
+  height: calc(100vh - 30px);
+}
